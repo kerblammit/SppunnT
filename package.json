@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "dotenv": "^16.0.3",
+    "gitignore": "^0.7.0",
     "hardhat": "^2.13.0",
     "npm": "^9.6.0",
     "yarn": "^1.22.19"
