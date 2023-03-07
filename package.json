@@ -2,10 +2,23 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2",
     "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@types/node": "^18.14.6",
+    "alchemy-sdk": "^2.6.0",
     "dotenv": "^16.0.3",
+    "ethers": "^6.0.8",
+    "ethjs-util": "^0.1.6",
     "gitignore": "^0.7.0",
     "hardhat": "^2.13.0",
+    "lerna": "^6.5.1",
     "npm": "^9.6.0",
-    "yarn": "^1.22.19"
+    "pkg": "^5.8.0",
+    "solc": "^0.8.19",
+    "ts-node": "^10.9.1",
+    "types": "^0.1.1",
+    "typescript": "^4.9.5",
+    "yarn": "^2.4.3"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.3"
   }
 }
